@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PlacarBasquete</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="teamA">Time A</string>
+    <string name="teamB">Time B</string>
+    <string name="three_points">+3 pontos</string>
+    <string name="two_points">+2 pontos</string>
+    <string name="one_points">+1 ponto</string>
+    <string name="reset">Reset placar</string>
+</resources>
